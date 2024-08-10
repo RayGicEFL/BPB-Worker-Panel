@@ -214,7 +214,7 @@ export default {
                         });
 
                     default:
-                        url.hostname = 'mschan.top';
+                        url.hostname = 'eflkumo.top';
                         url.protocol = 'https:';
                         request = new Request(url, request);
                         return await fetch(request);
